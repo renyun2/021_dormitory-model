@@ -1,5 +1,7 @@
 # 企业职工宿舍入住管理系统
 
+从 **GitHub 克隆的本仓库** 即应用根目录（与本地 **`*-model/repo/`** 目录布局一致：`backend/`、`frontend/`、`docker-compose.yml` 等在同一层）。
+
 Python 3.11 + FastAPI（SQLAlchemy + **asyncpg**）+ Vue 3（Vite + Element Plus）+ PostgreSQL 16，使用 Docker Compose 一键启动。详细需求见根目录 `prompt.txt`。
 
 ## 功能概览
